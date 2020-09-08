@@ -22,4 +22,5 @@ Before running the server make sure you have
     
   Test:
     - http://<your_ip_address>:8000/ai/?q=hai
+    
     - http://<your_ip_address>:8000/ai/?q=what+is+covid+19
